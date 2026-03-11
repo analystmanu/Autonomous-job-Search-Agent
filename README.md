@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Dashboard](#)** ← Add Streamlit Cloud link here after deployment
+🔗 **[View Live Dashboard](https://job-search-agent-manu.streamlit.app/)** ← Add Streamlit Cloud link here after deployment
 
 ---
 
